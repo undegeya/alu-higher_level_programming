@@ -1,0 +1,5 @@
+>>> Student = __import__('11-student').Student
+>>> student = Student("Nina", "Uwase", 20)
+>>> student.reload_from_json({'age': 21})
+>>> student.age
+21

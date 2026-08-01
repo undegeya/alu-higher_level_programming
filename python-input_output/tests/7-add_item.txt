@@ -1,0 +1,3 @@
+>>> import os
+>>> os.path.exists("add_item.json")
+False

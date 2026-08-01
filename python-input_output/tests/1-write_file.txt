@@ -1,0 +1,3 @@
+>>> write_file = __import__('1-write_file').write_file
+>>> write_file("test_write.txt", "Hello")
+5
