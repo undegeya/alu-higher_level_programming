@@ -1,0 +1,3 @@
+>>> append_write = __import__('2-append_write').append_write
+>>> append_write("test_append.txt", "Hello")
+5

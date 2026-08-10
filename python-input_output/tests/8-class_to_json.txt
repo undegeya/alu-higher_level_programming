@@ -1,0 +1,7 @@
+>>> class_to_json = __import__('8-class_to_json').class_to_json
+>>> class Person:
+...     pass
+>>> p = Person()
+>>> p.name = "Nina"
+>>> class_to_json(p)
+{'name': 'Nina'}

@@ -1,0 +1,5 @@
+>>> from_json_string = __import__('4-from_json_string').from_json_string
+>>> from_json_string("[1, 2]")
+[1, 2]
+>>> type(from_json_string("{}"))
+<class 'dict'>

@@ -1,0 +1,4 @@
+>>> Student = __import__('10-student').Student
+>>> student = Student("Nina", "Uwase", 20)
+>>> student.to_json(['first_name'])
+{'first_name': 'Nina'}
