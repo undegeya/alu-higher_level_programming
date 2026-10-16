@@ -30,7 +30,10 @@ python-classes/
 ├── 5-square.py
 └── 6-square.py
 ```
+# JavaScript Web Scraping
 
+This project contains JavaScript scripts that practice file operations,
+HTTP requests, web scraping, and working with APIs using Node.js.
 ## Requirements
 
 - Ubuntu 20.04 LTS
@@ -39,7 +42,7 @@ python-classes/
 - Files must be executable
 - Code must follow `pycodestyle` (version 2.7.*)
 - Every module, class, and method must contain documentation.
-
+9
 ## Author
 
 NDEGEYA Nina UWASE
